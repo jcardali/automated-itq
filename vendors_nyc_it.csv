@@ -1,0 +1,14 @@
+﻿vendor_id,vendor_name,do_not_itq,service_minimum_minutes,union,non_union,no_small_jobs,remote_only,consult_fee,mac,pc,cost_scale,good_for_sm_clients,good_for_med_clients,good_for_lrg_clients,recommended_for,specialties,minority_owned,veteran_owned,w2_employees,19_device_setup,22_internet_repair,219_it_consult,212_network_infra,20_managed_it,298_av_setup,required_services,products_list,category_name,category_id,ITQs d90,Active orders d90,target_customer_size
+1515,A,0,0,0,1,0,0,0,1,0,2,1,1,1,"Depth of knowledge,Customer service,Quick turnaround","Cabling/networks,Managed services,Apple products,General IT",0,0,0,1,1,1,1,1,0,,"19,22,219,20,212,PM - IT",IT,1,2,0,"S,M,L"
+924,B,0,0,0,1,0,0,0,1,1,1,1,1,0,"Customer service,Flexibility/customization,Budget friendliness","Managed services,General IT",0,0,1,1,1,1,1,1,0,,"15,19,212,22,20,219",IT,1,25,9,"S,M"
+222,C,0,0,1,1,1,0,1,1,1,2,0,1,1,Depth of knowledge,"Managed services,General IT",0,0,1,0,1,1,0,1,0,,"22,20,219",IT,1,3,0,"M,L"
+203,D,0,0,0,1,0,1,0,1,1,2,1,1,1,Flexibility/customization,Managed services,0,0,0,0,0,0,0,1,0,,20,IT,1,1,13,"S,M,L"
+780,E,1,0,0,1,0,0,0,1,1,2,1,0,0,"Flexibility/customization,Customer service","Managed services,General IT",0,0,0,1,1,1,1,1,0,,"219,212,20,19,22",IT,1,0,0,S
+1414,F,0,120,1,1,0,0,0,1,1,2,1,1,1,,"Cabling/networks,Security systems,Phones/telecommunications",0,0,0,1,0,0,1,0,0,,"11,15,19,4",IT,1,7,4,"S,M,L"
+1184,G,0,240,0,1,1,1,0,1,0,2,0,1,1,,"Apple products,Managed services",0,0,0,1,1,1,1,1,0,20,"19,20,22,212,219",IT,1,14,1,"M,L"
+1270,H,0,0,0,1,1,0,0,1,1,3,0,1,1,,"Managed services,General IT",0,0,0,0,0,1,1,1,0,,"212,20,219",IT,1,2,1,"M,L"
+312,I,0,0,0,1,0,0,0,1,1,1,1,0,0,"Budget friendliness,Flexibility/customization","Managed services,Break/fix,General IT",0,0,1,1,1,1,1,1,1,,"298,19,20,22,212,219,195",IT,1,24,6,S
+1087,J,0,0,0,1,1,0,0,1,1,3,0,1,1,"Depth of knowledge,High end",Audiovisual,0,0,0,0,0,0,0,0,1,,298,IT,1,5,2,"M,L"
+1198,K,0,120,0,1,1,0,0,1,1,2,0,1,0,,General IT,0,1,0,0,1,1,1,1,0,,"212,22,20,219",IT,1,2,1,M
+1162,L,0,0,0,1,1,0,0,1,1,3,0,1,1,"Depth of knowledge,High end",Audiovisual,0,0,0,0,0,0,0,0,1,,298,IT,1,3,0,"M,L"
+1138,M,0,0,1,1,0,0,0,1,1,1,1,1,0,"Budget friendliness,Flexibility/customization","Managed services,General IT",1,0,0,0,1,1,1,1,1,,"212,22,219,20,298",IT,1,12,4,"S,M"
